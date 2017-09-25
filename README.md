@@ -44,11 +44,11 @@ set UATOKEN=value
 set SCENARIOSURL=value
 set LOCAL=true #if scenariosurl is a local path
 ```
-#### On MAC
+#### On Mac
 ```sh
-export SEARCHTOKEN = value
-export UATOKEN = value
-export SCENARIOSURL = value
+export SEARCHTOKEN=value
+export UATOKEN=value
+export SCENARIOSURL=value
 export LOCAL=true #if scenariosurl is a local path
 ```
 
